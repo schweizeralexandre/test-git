@@ -9,5 +9,6 @@ public class MainClass {
 		TestGit myFirstTestGit = new TestGitUpdate("My Parameter") ;
 		System.out.println(myFirstTestGit.returnTheString());
 		System.out.println("Voici la modification");
+		System.out.println();
 	}
 }
